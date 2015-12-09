@@ -1,0 +1,1248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: awaken-pro.2.0.1\n"
+"POT-Creation-Date: 2015-11-28 06:55+0530\n"
+"PO-Revision-Date: 2015-11-28 06:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_nx;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:23
+msgid "Category"
+msgstr ""
+
+#: archive.php:29
+msgid "Tag"
+msgstr ""
+
+#: archive.php:35 inc/customizer/customizer.php:419
+#: inc/customizer/customizer.php:443
+msgid "Author"
+msgstr ""
+
+#: archive.php:41 inc/customizer/customizer.php:418
+#: inc/customizer/customizer.php:442
+msgid "Date"
+msgstr ""
+
+#: archive.php:48
+msgid "Month"
+msgstr ""
+
+#: archive.php:50
+msgid "F Y"
+msgstr ""
+
+#: archive.php:55
+msgid "Year"
+msgstr ""
+
+#: archive.php:57
+msgid "Y"
+msgstr ""
+
+#: archive.php:61
+msgid "Asides"
+msgstr ""
+
+#: archive.php:64
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:67
+msgid "Images"
+msgstr ""
+
+#: archive.php:70
+msgid "Videos"
+msgstr ""
+
+#: archive.php:73
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:76
+msgid "Links"
+msgstr ""
+
+#: archive.php:79
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:82
+msgid "Audios"
+msgstr ""
+
+#: archive.php:85
+msgid "Chats"
+msgstr ""
+
+#: archive.php:88
+msgid "Archives"
+msgstr ""
+
+#: authorbox.php:32
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:13 content-gallery.php:13 content-page.php:24
+#: content-single.php:13 content-video.php:13
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:23 content-gallery.php:25 content-page.php:18
+#: content-single.php:23 content-video.php:21 content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:33 content-audio.php:36 content-gallery.php:35
+#: content-gallery.php:38 content-single.php:33 content-single.php:36
+#: content-video.php:31 content-video.php:34
+msgid " "
+msgstr ""
+
+#: content-audio.php:40 content-gallery.php:42 content-single.php:40
+#: content-video.php:38
+msgid "Posted Under"
+msgstr ""
+
+#: content-audio.php:48 content-gallery.php:50 content-single.php:48
+#: content-video.php:46
+msgid "Tagged"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:55
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:55
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:57
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:60
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:63
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:143 inc/customizer/customizer.php:1721
+#: inc/customizer/customizer.php:1746 inc/customizer/customizer.php:1771
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:152
+msgid "Magazine 1"
+msgstr ""
+
+#: functions.php:161
+msgid "Magazine 2"
+msgstr ""
+
+#: functions.php:170 inc/customizer/customizer.php:1722
+msgid "Frontpage Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid ""
+"You can use this sidebar for magazine template front page. To use this "
+"sidebar for posts go to Customizer > Sidebar Selector and select this "
+"sidebar for front page sidebar."
+msgstr ""
+
+#: functions.php:179 inc/customizer/customizer.php:1747
+msgid "Post Sidebar"
+msgstr ""
+
+#: functions.php:181
+msgid ""
+"You can use this sidebar for single post articles. To use this sidebar for "
+"posts go to Customizer > Sidebar Selector and select this sidebar for post "
+"sidebar."
+msgstr ""
+
+#: functions.php:188 inc/customizer/customizer.php:1772
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:190
+msgid ""
+"You can use this sidebar for pages. To use this sidebar for pages go to "
+"Customizer > Sidebar Selector and select this sidebar for page sidebar."
+msgstr ""
+
+#: functions.php:197
+msgid "Header Ad Area"
+msgstr ""
+
+#: functions.php:206
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: functions.php:215
+msgid "Footer Mid Sidebar"
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:32
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:90
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:98
+msgid "Search"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "<span class=\"search-title-span\">Search Results for : </span> %s"
+msgstr ""
+
+#: inc/meta-boxes.php:14 inc/meta-boxes.php:16
+msgid "Select Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:26
+msgid "Default Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:36
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:41
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/related-posts.php:28
+msgid "You may like these posts"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav-prev\"></span> Previous"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "Next <span class=\"meta-nav-next\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:77 inc/template-tags.php:78
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:127
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "% Comments"
+msgstr ""
+
+#: inc/theme-info.php:39
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info.php:43
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info.php:47
+msgid "Get Support"
+msgstr ""
+
+#: inc/theme-info.php:51
+msgid "Customize Site"
+msgstr ""
+
+#: inc/theme-info.php:55
+msgid "Theme Details"
+msgstr ""
+
+#: inc/theme-info.php:59
+msgid "Contact ThemezHut"
+msgstr ""
+
+#: inc/theme-info.php:76
+msgid ""
+"As per the new guidelines to remove theme options panels of the themes that "
+"are available on WordPress.org, we have completely removed the \"Awaken "
+"Options\" panel with the new Awaken 2.0 and Awaken Pro 2.0 updates. All the "
+"options are now located in the theme customizer. Go to <b>\"Appearence > "
+"Customize\"</b> to find the Customizer or please use the \"Contact Us\" link "
+"below if you have run into any issues with the update."
+msgstr ""
+
+#: inc/theme-info.php:77
+msgid "Go to customizer."
+msgstr ""
+
+#: inc/theme-info.php:78
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Use this panel to set your header settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid ""
+"Upload a logo for your website. Recommended height for your logo is 135px."
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Display site title / logo."
+msgstr ""
+
+#: inc/customizer/customizer.php:81
+msgid "Choose your preferred option."
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "Display site title and description only."
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Display site logo image only."
+msgstr ""
+
+#: inc/customizer/customizer.php:85
+msgid "Display both site title and logo image."
+msgstr ""
+
+#: inc/customizer/customizer.php:86
+msgid "Display none"
+msgstr ""
+
+#: inc/customizer/customizer.php:103
+msgid "Upload a favicon"
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "Upload a favicon for your website."
+msgstr ""
+
+#: inc/customizer/customizer.php:125
+msgid "Display site favicon?"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:156
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:157
+msgid "Number of words to display on posts of blog posts listings."
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer/customizer.php:176
+msgid "Give a read more text for posts. HTML allowed."
+msgstr ""
+
+#: inc/customizer/customizer.php:185
+#, php-format
+msgid "Copyright %s. All rights reserved."
+msgstr ""
+
+#: inc/customizer/customizer.php:195
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/customizer/customizer.php:196
+msgid ""
+"Copyright or other text to be displayed in the site footer. HTML allowed."
+msgstr ""
+
+#: inc/customizer/customizer.php:207
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:208
+msgid "Use this panel to set your home page settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:219
+msgid "Feartured Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:220 inc/customizer/customizer.php:665
+msgid "Use this section to setup the homepage slider and featured posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:239
+msgid "Display slider on homepage ?"
+msgstr ""
+
+#: inc/customizer/customizer.php:258
+msgid "Number of slides to display in the slider."
+msgstr ""
+
+#: inc/customizer/customizer.php:275
+msgid "Select the category for slider."
+msgstr ""
+
+#: inc/customizer/customizer.php:276 inc/customizer/customizer.php:297
+msgid ""
+"Featured images of the posts from selected category will be displayed in the "
+"slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:296
+msgid "Select the category for featured posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:310
+msgid "Custom Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:312
+msgid ""
+"<b>Note:</b> Recommended image width is <b>752px</b> and recommended image "
+"height is <b>440px</b> for custom slider images. Uploading bigger images may "
+"cause slow site loading times."
+msgstr ""
+
+#: inc/customizer/customizer.php:329
+msgid "Display custom slider as main slider?"
+msgstr ""
+
+#: inc/customizer/customizer.php:330
+msgid ""
+"Mark the checkbox if you want to display custom slider instead of category "
+"posts slider."
+msgstr ""
+
+#: inc/customizer/customizer.php:346
+#, php-format
+msgid "Slide %d image"
+msgstr ""
+
+#: inc/customizer/customizer.php:367
+#, php-format
+msgid "Slide %d title"
+msgstr ""
+
+#: inc/customizer/customizer.php:385
+#, php-format
+msgid "Slide %d url"
+msgstr ""
+
+#: inc/customizer/customizer.php:397
+msgid "Post / Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:416
+msgid ""
+"Select what post meta data to display on index pages and on magazine widgets."
+msgstr ""
+
+#: inc/customizer/customizer.php:420 inc/customizer/customizer.php:444
+#: inc/widgets/popular-tags-comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/customizer.php:440
+msgid "Select what post meta data to display in single posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:464
+msgid "Display post comments."
+msgstr ""
+
+#: inc/customizer/customizer.php:465
+msgid "Mark the checkbox if you want to display comments on post articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:483
+msgid "Display page comments."
+msgstr ""
+
+#: inc/customizer/customizer.php:484
+msgid "Mark the checkbox if you want to display comments on pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:503
+msgid "Display featured image inside the single post article."
+msgstr ""
+
+#: inc/customizer/customizer.php:504
+msgid ""
+"Mark the checkbox if you want to show featured image on single post article."
+msgstr ""
+
+#: inc/customizer/customizer.php:522
+msgid "Display related posts in single post articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:523
+msgid "Mark the checkbox if you want to display related posts in articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:541
+msgid "Display author box in single post articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:542
+msgid "Mark the checkbox if you want to display author box in articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:552
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:571
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:572
+msgid "Select enable if you want to display your site in a boxed layout."
+msgstr ""
+
+#: inc/customizer/customizer.php:574
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer.php:575
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer.php:595
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:596
+msgid "Select the main content and sidebar alignment for archives."
+msgstr ""
+
+#: inc/customizer/customizer.php:621
+msgid "Single post layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:622
+msgid "Select the default layout for single post articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:647
+msgid "Page layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:648
+msgid "Select the default layout for pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:664
+msgid "Site Styling"
+msgstr ""
+
+#: inc/customizer/customizer.php:676 inc/customizer/customizer.php:697
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:698
+msgid "Define custom CSS be used for your site. Do not enclose in script tags."
+msgstr ""
+
+#: inc/customizer/customizer.php:708
+msgid "Site Main Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:729
+msgid "Boxed Layout Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:730
+msgid "Works only when the <b>Boxed Layout</b> is enabled from Layout Options."
+msgstr ""
+
+#: inc/customizer/customizer.php:750
+msgid "Site Main Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:751
+msgid "Pick a main color for the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:771
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:772
+msgid "Background color for the site header."
+msgstr ""
+
+#: inc/customizer/customizer.php:793
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:794
+msgid "Pick a color for the body text."
+msgstr ""
+
+#: inc/customizer/customizer.php:815
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:816
+msgid ""
+"Text color for widget post titles, single post titles, archive post titles "
+"and all the article heading tags."
+msgstr ""
+
+#: inc/customizer/customizer.php:836
+msgid "Article Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:837
+msgid "Color for links in single post articles."
+msgstr ""
+
+#: inc/customizer/customizer.php:857
+msgid "Post Metadata Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:858
+msgid "Color for data like post date, author."
+msgstr ""
+
+#: inc/customizer/customizer.php:869
+msgid "Main Navigation Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:890
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:910
+msgid "Main Navigation Text/Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:930
+msgid "Main Navigation Text/Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:950
+msgid "Main Navigation Text/Link Hover Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:970
+msgid "Main Navigation Dropdown Text/Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:990
+msgid "Main Navigation Dropdown Text/Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1010
+msgid "Main Navigation Dropdown Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1030
+msgid "Main Navigation Dropdown Hover Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1042
+msgid "Top Navigation Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:1063
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1083
+msgid "Top Navigation Text/Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1103
+msgid "Top Navigation Text/Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1123
+msgid "Top Navigation Dropdown Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1143
+msgid "Top Navigation Dropdown Hover Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1163
+msgid "Top Navigation Dropdown Text/Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1183
+msgid "Top Navigation Dropdown Text/Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1195
+msgid "Footer Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:1216
+msgid "Footer widgets area background color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1236
+msgid "Footer widget title color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1256
+msgid "Footer text color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1276
+msgid "Footer link color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1296
+msgid "Footer link hover color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1316
+msgid "Footer copyright area background color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1336
+msgid "Footer copyright area text color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1347
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:1370
+msgid "Title Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:1371
+msgid ""
+"Font for site title, main navigation, top navigation, page titles and widget "
+"titles. Default - <b>Ubuntu.</b>"
+msgstr ""
+
+#: inc/customizer/customizer.php:1394
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:1395
+msgid ""
+"Font for all html heading tags and post tites. Default - <b>Roboto Condensed."
+"</b>"
+msgstr ""
+
+#: inc/customizer/customizer.php:1419
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:1420
+msgid "Font for the site content. Default - <b>Source Sans Pro.</b>"
+msgstr ""
+
+#: inc/customizer/customizer.php:1439
+msgid "Body Font Size in Pixels."
+msgstr ""
+
+#: inc/customizer/customizer.php:1440
+msgid "Default - 16px."
+msgstr ""
+
+#: inc/customizer/customizer.php:1458
+msgid "Body Content Line Height."
+msgstr ""
+
+#: inc/customizer/customizer.php:1459
+msgid "Default - 24px."
+msgstr ""
+
+#: inc/customizer/customizer.php:1469
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/customizer.php:1488
+msgid "Display social icons?"
+msgstr ""
+
+#: inc/customizer/customizer.php:1506
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1524
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1542
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1560
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1578
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1596
+msgid "RSS URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1614
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1632
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1650
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1668
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1686
+msgid "Github URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:1696
+msgid "Sidebar Selector"
+msgstr ""
+
+#: inc/customizer/customizer.php:1698
+msgid ""
+"Use this section to choose default sidebars for different areas of the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:1718
+msgid "Frontpage sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:1719
+msgid ""
+"Select the sidebar for the site frontpage. Default is <b>Main Sidebar</b>"
+msgstr ""
+
+#: inc/customizer/customizer.php:1743
+msgid "Sidebar for posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:1744 inc/customizer/customizer.php:1769
+msgid "Select the sidebar for single posts. Default is <b>Main Sidebar</b>"
+msgstr ""
+
+#: inc/customizer/customizer.php:1768
+msgid "Sidebar for pages"
+msgstr ""
+
+#: inc/customizer/fonts.php:16
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/fonts.php:18
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/fonts.php:111
+msgid "All"
+msgstr ""
+
+#: inc/customizer/fonts.php:112
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/fonts.php:113
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/fonts.php:114
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/fonts.php:115
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/fonts.php:116
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/fonts.php:117
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/fonts.php:118
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/fonts.php:119
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/fonts.php:120
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/fonts.php:177
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/fonts.php:181
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer/fonts.php:185
+msgid "Monospaced"
+msgstr ""
+
+#: inc/customizer/custom-controls/control-category-dropdown.php:13
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/functions/socialmedia.php:10 inc/widgets/facebook-widget.php:68
+msgid "Find us on Facebook"
+msgstr ""
+
+#: inc/functions/socialmedia.php:13
+msgid "Find us on Twitter"
+msgstr ""
+
+#: inc/functions/socialmedia.php:16
+msgid "Find us on Google Plus"
+msgstr ""
+
+#: inc/functions/socialmedia.php:19
+msgid "Find us on Linkedin"
+msgstr ""
+
+#: inc/functions/socialmedia.php:22
+msgid "Find us on Pinterest"
+msgstr ""
+
+#: inc/functions/socialmedia.php:25
+msgid "Find us on Youtube"
+msgstr ""
+
+#: inc/functions/socialmedia.php:28
+msgid "Find us on Vimeo"
+msgstr ""
+
+#: inc/functions/socialmedia.php:31
+msgid "Find us on RSS"
+msgstr ""
+
+#: inc/functions/socialmedia.php:34
+msgid "Find us on Instagram"
+msgstr ""
+
+#: inc/functions/socialmedia.php:37
+msgid "Find us on Flickr"
+msgstr ""
+
+#: inc/functions/socialmedia.php:40
+msgid "Find us on Github"
+msgstr ""
+
+#: inc/widgets/dual-category.php:13
+msgid "Awaken: Two Block Posts Widget"
+msgstr ""
+
+#: inc/widgets/dual-category.php:14
+msgid "Displays posts in a full width layout"
+msgstr ""
+
+#: inc/widgets/dual-category.php:30 inc/widgets/dual-category.php:35
+#: inc/widgets/sidebar-posts.php:30 inc/widgets/single-category.php:31
+#: inc/widgets/three-block-posts.php:30
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/dual-category.php:51 inc/widgets/dual-category.php:71
+#: inc/widgets/leaderboard.php:40 inc/widgets/medium-rectangle.php:40
+#: inc/widgets/sidebar-posts.php:41 inc/widgets/single-category.php:43
+#: inc/widgets/three-block-posts.php:42 inc/widgets/video-widget.php:39
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/dual-category.php:55 inc/widgets/dual-category.php:75
+#: inc/widgets/sidebar-posts.php:45 inc/widgets/single-category.php:47
+#: inc/widgets/three-block-posts.php:46
+msgid "Select a post category"
+msgstr ""
+
+#: inc/widgets/dual-category.php:59 inc/widgets/dual-category.php:79
+#: inc/widgets/sidebar-posts.php:49 inc/widgets/single-category.php:51
+#: inc/widgets/three-block-posts.php:50
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/dual-category.php:64 inc/widgets/dual-category.php:84
+#: inc/widgets/sidebar-posts.php:54 inc/widgets/single-category.php:56
+#: inc/widgets/three-block-posts.php:62
+msgid "Hide sticky posts."
+msgstr ""
+
+#: inc/widgets/dual-category.php:256 inc/widgets/dual-category.php:266
+#: inc/widgets/dual-category.php:362 inc/widgets/dual-category.php:372
+#: inc/widgets/sidebar-posts.php:162 inc/widgets/sidebar-posts.php:171
+#: inc/widgets/single-category.php:200 inc/widgets/single-category.php:210
+#: inc/widgets/three-block-posts.php:203 inc/widgets/three-block-posts.php:213
+msgid "View All Posts"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:11
+msgid "Awaken: Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:12
+msgid "Add Facebook Like Box."
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:72
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:77
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:82
+msgid "Width"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:87
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:89
+msgid "light"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:90
+msgid "dark"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:96
+msgid "Show faces"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:101
+msgid "Show stream"
+msgstr ""
+
+#: inc/widgets/facebook-widget.php:106
+msgid "Show facebook header"
+msgstr ""
+
+#: inc/widgets/leaderboard.php:14
+msgid "Awaken: 728x90 Ad"
+msgstr ""
+
+#: inc/widgets/leaderboard.php:15
+msgid "Displays a 728x90 responsive leaderboard ad unit."
+msgstr ""
+
+#: inc/widgets/leaderboard.php:44 inc/widgets/medium-rectangle.php:44
+msgid "Image Link"
+msgstr ""
+
+#: inc/widgets/leaderboard.php:48 inc/widgets/medium-rectangle.php:48
+msgid "Destination Link"
+msgstr ""
+
+#: inc/widgets/medium-rectangle.php:14
+msgid "Awaken: 300x250 Ad"
+msgstr ""
+
+#: inc/widgets/medium-rectangle.php:15
+msgid "Displays a 300x250 ad unit."
+msgstr ""
+
+#: inc/widgets/medium-rectangle.php:31
+msgid "Advertisement"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:15
+msgid "Awaken: Popular Posts, Tags, Comments"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:16
+msgid "Displays popular posts, comments, tags in a tabbed pane."
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:36
+msgid "Number of popular posts:"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:40
+msgid "Number of comments:"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:87
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:89
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:166
+msgid "No tags created."
+msgstr ""
+
+#: inc/widgets/sidebar-posts.php:14
+msgid "Awaken: Sidebar Posts"
+msgstr ""
+
+#: inc/widgets/sidebar-posts.php:15
+msgid ""
+"Displays latest posts or posts from a choosen category.Use this widget to "
+"sidebars except magazine sidebars."
+msgstr ""
+
+#: inc/widgets/single-category.php:14
+msgid "Awaken: Single Category Posts"
+msgstr ""
+
+#: inc/widgets/single-category.php:15
+msgid "Displays latest posts or posts from a choosen category."
+msgstr ""
+
+#: inc/widgets/three-block-posts.php:13
+msgid "Awaken: Three Block Posts Widget"
+msgstr ""
+
+#: inc/widgets/three-block-posts.php:14
+msgid "Displays posts by three blocks per row."
+msgstr ""
+
+#: inc/widgets/three-block-posts.php:54
+msgid "Number of posts per row:"
+msgstr ""
+
+#: inc/widgets/video-widget.php:14
+msgid "Awaken: Youtube Video"
+msgstr ""
+
+#: inc/widgets/video-widget.php:15
+msgid "Displays a youtube video."
+msgstr ""
+
+#: inc/widgets/video-widget.php:31
+msgid "Featured Video"
+msgstr ""
+
+#: inc/widgets/video-widget.php:43
+msgid "Youtube Video ID"
+msgstr ""
